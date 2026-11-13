@@ -1,0 +1,1 @@
+try{var t=JSON.parse(localStorage.getItem('afags_theme_site')||'"liquid"');document.documentElement.dataset.theme=['liquid','glass','spatial'].indexOf(t)>-1?t:'liquid'}catch(e){document.documentElement.dataset.theme='liquid'}

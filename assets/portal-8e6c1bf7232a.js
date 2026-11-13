@@ -1,0 +1,1 @@
+try{var t=localStorage.getItem("afags_theme_site");document.documentElement.dataset.theme=/^(liquid|glass|spatial)$/.test(t)?t:"liquid"}catch(e){document.documentElement.dataset.theme="liquid"}

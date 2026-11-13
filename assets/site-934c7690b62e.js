@@ -1,0 +1,1 @@
+window.AFAGS_GUIDES={fencer:'url:guides/AFAGS-Fencer-Registration-Guide.pdf',coach:'url:guides/AFAGS-Coach-Registration-Guide.pdf',referee:'url:guides/AFAGS-Referee-Registration-Guide.pdf',club:'url:guides/AFAGS-Club-Registration-Guide.pdf',district:'url:guides/AFAGS-District-Registration-Guide.pdf'};
